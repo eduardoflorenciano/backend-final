@@ -6,7 +6,7 @@
 # Build
 target/
 
-# Logs e segredos locais
+# Logs
 logs/
 *.log
 *.gz
